@@ -8,4 +8,4 @@ CAD deigns for 3D printing parts using Solidworks/ Fusion360.
 
 ## Headphones Hanger Hook
 
-<img src="./Headphones Hanger Hook/jpeg/Headphone hook iso.jpeg"/>
+<img src="./Headphones Hanger Hook/jpeg/Headphone hook iso.JPG"/>
